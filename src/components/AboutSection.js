@@ -1,5 +1,4 @@
 import home1 from '../img/home1.png';
-import styled from 'styled-components';
 import { StyledAbout, StyledDescription, StyledImg, StyledHide } from '../styles';
 
 const AboutSection = () => {
