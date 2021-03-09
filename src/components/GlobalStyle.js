@@ -30,6 +30,12 @@ button{
     }
 }
 
+html {
+    @media (max-width:1700px){
+        font-size:75%;
+    }
+}
+
 h2{
         font-weight:lighter;
         font-size:4rem;
